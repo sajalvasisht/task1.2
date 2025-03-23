@@ -1,2 +1,6 @@
 new file
+<<<<<<< HEAD
 change from main branch
+=======
+change from conflict branch
+>>>>>>> a68b1d0 (change from conflict-branch)
